@@ -1,5 +1,5 @@
 Hi, I am Jan and I am a graduate of automation and robotics and a former member of the Formula Student Team. I'am from Poland, living in Bialystok and currently looking for job 
-in the field of .NET web technology. 
+in the field of .NET Web technology. 
 
 - 👋 Hi, I’m @jansierakowski
 - 👀 I’m interested in .NET and web technology, WPF, uC, robotics
